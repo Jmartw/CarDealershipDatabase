@@ -1,0 +1,3 @@
+USE CarDealerShip;
+SELECT * FROM vehicles
+WHERE VIN = '1G1YZDE0B5800005';
